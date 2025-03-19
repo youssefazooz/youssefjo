@@ -1,0 +1,102 @@
+.w{
+
+    border:  #ffffff 5px solid;
+    padding: 10px;
+    background-color: rgba(7, 0, 41, 0.966);
+    color: red;
+    text-align: center;
+    background-image: url(img/imgg.webp);
+    background-position: no-repeat;
+    background-size: cover;
+    
+}
+    
+    .p1{
+        color: aliceblue;
+        font-size: 50px;
+        text-decoration: underline;
+    
+    }
+    .p2{
+        font-size: 25px;
+        
+    }
+    .i1{
+        color: aqua;
+    }
+    .h2{
+        text-align: right;
+        text-decoration: underline;
+        color: blue;
+    }
+    .u1{
+        color: #73ff00;
+        font-size: 32px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .u2{
+        color: blue;
+        font-size: 22px;
+    }
+    .p3{
+        color: black;
+        
+    }
+    .p4{
+        color: #1eff00;font-size: 22px;
+    }
+    #myVideo {
+        width: 100%; /* يجعل الفيديو بعرض الصفحة بالكامل */
+        height: auto; /* يضبط الارتفاع تلقائيًا بناءً على العرض */
+        object-fit: cover; /* يضمن تغطية الفيديو بدون تشويه */
+        position: fixed; /* يجعل الفيديو كخلفية ثابتة */
+        top: 0;
+        left: 0;
+        z-index: -1; /* يرسل الفيديو إلى الخلفية */
+    }
+    .v1{
+        color: #0026ff;
+        font-size: 32px;
+        text-decoration:underline;
+    }
+    .h4{
+        color: #0026ff;
+        font-size: 25px;
+        text-decoration: underline;
+        text-align: center;
+    }
+    .p5{
+        color: #1eff00;
+        font-size: 22;
+
+    }
+    .p6{
+        color: aqua;
+        font-size: 30px;
+    }
+    .pp1{ 
+        color: hsl(187, 100%, 50%);
+        font-size: 25px;
+    }
+    .h6{
+        font-size: 30px;
+
+    }
+    .h5{
+        font-size: 30px;
+    }
+    .h7{font-size: 30px;
+    }
+    .pp2{color: aqua;
+        font-size: 25px;
+    }
+    .pp3{
+        color: aqua;
+        font-size: 25px;
+    }
+
+    
+    
+
+
+
